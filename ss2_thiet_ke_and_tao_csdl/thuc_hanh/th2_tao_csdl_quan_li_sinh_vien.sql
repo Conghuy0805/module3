@@ -34,7 +34,5 @@ create table mark(
     student_id int not null,
     mark float default 0 check(mark between 0 and 100),
     exam_times tinyint default 1,
-    unique(sub_id, student_id),
-    foreign key(sub_id) references subjects(sub_id),
-    foreign key(student_id) references students(student_id)
+    primary key(mark_id)
 );
