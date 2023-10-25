@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h5 {
+    font-size: 150%;
+}
+
+.p1 {
+    font-style: italic;
+    font-weight: bold;
+}
+
+h3 {
+    text-align: center;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: palevioletred;
+    margin: 20px 0;
+}
+
+p {
+    font-size: 130%;
+    font-style: oblique;
+    box-sizing: border-box;
+}
+
+.img-center{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+}
+
+body{
+    background-image: linear-gradient(to right, #fc5c7d, #6a82fb);
+}
+
+

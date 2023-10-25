@@ -1,0 +1,39 @@
+.p2 {
+    font-size: 150%;
+    font-style: normal;
+    text-align: justify;
+    font-family: Arial;
+    text-indent: 50px;
+}
+
+.p3 {
+    font-size: 150%;
+    font-style: normal;
+    text-align: justify;
+    font-family: Arial;
+    text-indent: 50px;
+}
+
+h1 {
+    font-family: "Gill Sans";
+    margin-bottom: 1px;
+
+}
+
+#p1 {
+    font-size: 100%;
+    margin-top: 1px;
+}
+
+.strong1 {
+    font-weight: bold;
+}
+
+.strong2 {
+    font-weight: bold;
+}
+
+.strong3 {
+    font-weight: bold;
+    color: blue;
+}
